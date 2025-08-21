@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "ST558_HW1.html",
+    "href": "ST558_HW1.html",
+    "title": "ST558_HW1",
+    "section": "",
+    "text": "∗ What do you think being a data scientist is about?\n∗ What differences/similarities do you see between data scientists and statisticians?\n∗ How do you view yourself in relation to these two areas?"
+  },
+  {
+    "objectID": "ST558_HW1.html#being-a-data-scientist",
+    "href": "ST558_HW1.html#being-a-data-scientist",
+    "title": "ST558_HW1",
+    "section": "",
+    "text": "∗ What do you think being a data scientist is about?\n∗ What differences/similarities do you see between data scientists and statisticians?\n∗ How do you view yourself in relation to these two areas?"
+  },
+  {
+    "objectID": "ST558_HW1.html#running-code",
+    "href": "ST558_HW1.html#running-code",
+    "title": "ST558_HW1",
+    "section": "Running Code",
+    "text": "Running Code\n\ny &lt;- density(iris$Petal.Width)\nclass(y) #class of y\n\n[1] \"density\"\n\ntypeof(y) #type of y\n\n[1] \"list\"\n\nstr(y) #structure of y\n\nList of 8\n $ x         : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y         : num [1:512] 0.00161 0.00178 0.00197 0.00217 0.00239 ...\n $ bw        : num 0.252\n $ n         : int 150\n $ old.coords: logi FALSE\n $ call      : language density.default(x = iris$Petal.Width)\n $ data.name : chr \"iris$Petal.Width\"\n $ has.na    : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\n\n\n\n\n\n\n\n\n\nThe echo: false option is on which prevents the printing of code. The plot shows the estimated density values of the iris petal width."
+  }
+]
