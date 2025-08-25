@@ -2,22 +2,22 @@
   {
     "objectID": "ST558_HW1.html",
     "href": "ST558_HW1.html",
-    "title": "ST558_HW1",
+    "title": "ST558 HW1",
     "section": "",
-    "text": "What do you think being a data scientist is about? I find Data Scientist to be a very broad term, which include wrangling data, performing analysis, modeling data, and communicating data. This requires\nWhat differences/similarities do you see between data scientists and statisticians? The primary difference I see between data scientist and statisticians is audience. Data scientist are often business centric while statisticians are more research focus. However, both have the overwhelming goal of understanding the data. A statistician might achieve this by finding a model or distribution to understand the underlying population of the data. A data scientist could work to create a model that uses the data to make immediate or long term decisions.\nHow do you view yourself in relation to these two areas? The role of a statistician more closely relates to some of the theory knowledge I have studied during my master while data science encompasses a lot of appications of statistics and more."
+    "text": "Ella Gruchacz"
   },
   {
     "objectID": "ST558_HW1.html#being-a-data-scientist",
     "href": "ST558_HW1.html#being-a-data-scientist",
-    "title": "ST558_HW1",
-    "section": "",
-    "text": "What do you think being a data scientist is about? I find Data Scientist to be a very broad term, which include wrangling data, performing analysis, modeling data, and communicating data. This requires\nWhat differences/similarities do you see between data scientists and statisticians? The primary difference I see between data scientist and statisticians is audience. Data scientist are often business centric while statisticians are more research focus. However, both have the overwhelming goal of understanding the data. A statistician might achieve this by finding a model or distribution to understand the underlying population of the data. A data scientist could work to create a model that uses the data to make immediate or long term decisions.\nHow do you view yourself in relation to these two areas? The role of a statistician more closely relates to some of the theory knowledge I have studied during my master while data science encompasses a lot of appications of statistics and more."
+    "title": "ST558 HW1",
+    "section": "Being a Data Scientist",
+    "text": "Being a Data Scientist\n\nWhat do you think being a data scientist is about?\nI find Data Scientist to be a very broad term, which include wrangling data, performing analysis, modeling data, and communicating data. This requires a combination of statistical knowledge, programming practice, and an understanding of the business/domain.\nWhat differences/similarities do you see between data scientists and statisticians?\nThe primary difference I see between data scientist and statisticians is audience. Data scientist are often business centric while statisticians are more research focus. However, both have the overwhelming goal of understanding the data. A statistician might achieve this by finding a model or distribution to understand the underlying population of the data. A data scientist could work to create a model that uses the data to make immediate or long term decisions.\nHow do you view yourself in relation to these two areas?\nThe role of a statistician more closely relates to the theory knowledge I have studied during my master; however, it feels very research focus which I consider myself more novice in. Data science relates more closely to the work I did in industry before my master, which included data management and data visualization."
   },
   {
     "objectID": "ST558_HW1.html#running-code",
     "href": "ST558_HW1.html#running-code",
-    "title": "ST558_HW1",
+    "title": "ST558 HW1",
     "section": "Running Code",
-    "text": "Running Code\n\ny &lt;- density(iris$Petal.Width)\nclass(y) #class of y\n\n[1] \"density\"\n\ntypeof(y) #type of y\n\n[1] \"list\"\n\nstr(y) #structure of y\n\nList of 8\n $ x         : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y         : num [1:512] 0.00161 0.00178 0.00197 0.00217 0.00239 ...\n $ bw        : num 0.252\n $ n         : int 150\n $ old.coords: logi FALSE\n $ call      : language density.default(x = iris$Petal.Width)\n $ data.name : chr \"iris$Petal.Width\"\n $ has.na    : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\n\n\n\n\n\n\n\n\n\nThe echo: false option is on which prevents the printing of code. The plot shows the estimated density values of the iris petal width."
+    "text": "Running Code\nShows the class, type, and structure of object y, the density of iris petal width.\n\ny &lt;- density(iris$Petal.Width)\nclass(y) #class of y\n\n[1] \"density\"\n\ntypeof(y) #type of y\n\n[1] \"list\"\n\nstr(y) #structure of y\n\nList of 8\n $ x         : num [1:512] -0.656 -0.648 -0.64 -0.633 -0.625 ...\n $ y         : num [1:512] 0.00161 0.00178 0.00197 0.00217 0.00239 ...\n $ bw        : num 0.252\n $ n         : int 150\n $ old.coords: logi FALSE\n $ call      : language density.default(x = iris$Petal.Width)\n $ data.name : chr \"iris$Petal.Width\"\n $ has.na    : logi FALSE\n - attr(*, \"class\")= chr \"density\"\n\n\nThe echo: false option is on which prevents the printing of code. The plot shows the estimated density values of the iris petal width."
   }
 ]
