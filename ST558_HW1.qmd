@@ -6,11 +6,13 @@ editor: visual
 
 ## Being a Data Scientist
 
-  ∗ What do you think being a data scientist is about? 
+  * What do you think being a data scientist is about? 
+  I find Data Scientist to be a very broad term, which include wrangling data, performing analysis, modeling data, and communicating data. This requires 
   
-  ∗ What differences/similarities do you see between data scientists and statisticians? 
+  * What differences/similarities do you see between data scientists and statisticians? The primary difference I see between data scientist and statisticians is audience. Data scientist are often business centric while statisticians are more research focus. However, both have the overwhelming goal of understanding the data. A statistician might achieve this by finding a model or distribution to understand the underlying population of the data. A data scientist could work to create a model that uses the data to make immediate or long term decisions.
   
-  ∗ How do you view yourself in relation to these two areas?
+  * How do you view yourself in relation to these two areas?
+  The role of a statistician more closely relates to some of the theory knowledge I have studied during my master while data science encompasses a lot of appications of statistics and more.  
 
 ## Running Code
 
